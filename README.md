@@ -2,16 +2,16 @@
  
 Controls:
 
-WASD / Right Joystick : movement
-Left Control / Left Trigger : Short Dash
-Left Shift / Right Stick Press : Toggle Run
-Space / Gamepad East : Jumping
+<br>WASD / Right Joystick : movement
+<br>Left Control / Left Trigger : Short Dash
+<br>Left Shift / Right Stick Press : Toggle Run
+<br>Space / Gamepad East : Jumping
 
-F / Right Shoulder : Block
-M1 / Gamepad East : Light Attack (3 hit combo)
-E / Gamepad North : Spike Path
-R / Gamepad West : Spear Throw
-C / Gamepad South : Heavy Spike
+<br>F / Right Shoulder : Block
+<br>M1 / Gamepad East : Light Attack (3 hit combo)
+<br>E / Gamepad North : Spike Path
+<br>R / Gamepad West : Spear Throw
+<br>C / Gamepad South : Heavy Spike
 
 ESC / Start : Pause Menu
 
@@ -22,9 +22,9 @@ ESC / Start : Pause Menu
 Acknowledgements:
 
 Font: Caveat by Impallari Type 
-Licence: OFL
-Source: https://fonts.google.com/specimen/Caveat
+<br>Licence: OFL
+<br>Source: https://fonts.google.com/specimen/Caveat
 
 Font: Mansalva by Carolina Short
-Licence: OFL
-Source: https://fonts.google.com/specimen/Mansalva/about?preview.text=Health&preview.text_type=custom&category=Handwriting
+<br>Licence: OFL
+<br>Source: https://fonts.google.com/specimen/Mansalva/about?preview.text=Health&preview.text_type=custom&category=Handwriting
