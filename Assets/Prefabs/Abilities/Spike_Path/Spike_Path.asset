@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b49daddf47fbb474abd10bb57205392a, type: 3}
+  m_Name: Spike_Path
+  m_EditorClassIdentifier: 
+  _damage: 10
+  _prop: {fileID: 5196733184451671144, guid: 6aa05f215e6d6174d87537fe55e0876a, type: 3}
+  _distanceBetweenSpikes: 4.89
+  _initalOffset: 3.39
+  _amountOfSpikes: 6
+  _spikeLifetime: 2
+  _spikeGroundInset: 0.53
+  _spikeSpawnDelay: 0.22
